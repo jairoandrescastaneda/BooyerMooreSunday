@@ -6,7 +6,6 @@
 
 
 **Que no se uso?**
-
 se obvio el uso de la lista de preprocesamiento  y se uso el metodo directamente el metodo de busqueda de una coincidencia de un caracter tiene un costo de  *O(m)* donde *m* es el tamaño del patron
 
 
