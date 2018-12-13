@@ -1,4 +1,4 @@
-import pdb;pdb.set_trace()
+#import pdb;pdb.set_trace()
 
 def search_letter_in_pattern(pattern,letter):
     """
